@@ -1,0 +1,12 @@
+D:\Programação\FinanSystem\FinanSystem2023\Helpers\bin\Debug\net7.0\Helpers.deps.json
+D:\Programação\FinanSystem\FinanSystem2023\Helpers\bin\Debug\net7.0\Helpers.dll
+D:\Programação\FinanSystem\FinanSystem2023\Helpers\bin\Debug\net7.0\Helpers.pdb
+D:\Programação\FinanSystem\FinanSystem2023\Helpers\obj\Debug\net7.0\Helpers.csproj.AssemblyReference.cache
+D:\Programação\FinanSystem\FinanSystem2023\Helpers\obj\Debug\net7.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\FinanSystem\FinanSystem2023\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfoInputs.cache
+D:\Programação\FinanSystem\FinanSystem2023\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfo.cs
+D:\Programação\FinanSystem\FinanSystem2023\Helpers\obj\Debug\net7.0\Helpers.csproj.CoreCompileInputs.cache
+D:\Programação\FinanSystem\FinanSystem2023\Helpers\obj\Debug\net7.0\Helpers.dll
+D:\Programação\FinanSystem\FinanSystem2023\Helpers\obj\Debug\net7.0\refint\Helpers.dll
+D:\Programação\FinanSystem\FinanSystem2023\Helpers\obj\Debug\net7.0\Helpers.pdb
+D:\Programação\FinanSystem\FinanSystem2023\Helpers\obj\Debug\net7.0\ref\Helpers.dll

@@ -1,0 +1,12 @@
+D:\Programação\FinanSystem\FinanSystem2023\Infra\bin\Debug\net7.0\Infra.deps.json
+D:\Programação\FinanSystem\FinanSystem2023\Infra\bin\Debug\net7.0\Infra.dll
+D:\Programação\FinanSystem\FinanSystem2023\Infra\bin\Debug\net7.0\Infra.pdb
+D:\Programação\FinanSystem\FinanSystem2023\Infra\obj\Debug\net7.0\Infra.csproj.AssemblyReference.cache
+D:\Programação\FinanSystem\FinanSystem2023\Infra\obj\Debug\net7.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\FinanSystem\FinanSystem2023\Infra\obj\Debug\net7.0\Infra.AssemblyInfoInputs.cache
+D:\Programação\FinanSystem\FinanSystem2023\Infra\obj\Debug\net7.0\Infra.AssemblyInfo.cs
+D:\Programação\FinanSystem\FinanSystem2023\Infra\obj\Debug\net7.0\Infra.csproj.CoreCompileInputs.cache
+D:\Programação\FinanSystem\FinanSystem2023\Infra\obj\Debug\net7.0\Infra.dll
+D:\Programação\FinanSystem\FinanSystem2023\Infra\obj\Debug\net7.0\refint\Infra.dll
+D:\Programação\FinanSystem\FinanSystem2023\Infra\obj\Debug\net7.0\Infra.pdb
+D:\Programação\FinanSystem\FinanSystem2023\Infra\obj\Debug\net7.0\ref\Infra.dll
