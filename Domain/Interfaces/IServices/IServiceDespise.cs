@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Entities.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,5 +9,8 @@ namespace Domain.Interfaces.IServices
 {
     public interface IServiceDespise
     {
+        Task AddDespise(Despise despise);
+
+        Task UpdateDespise(Despise despise);
     }
 }

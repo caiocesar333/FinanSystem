@@ -6,4 +6,16 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Entities\Entities.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="D:\Programação\FinanSystem\FinanSystem2023\Domain\Services\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="D:\Programação\FinanSystem\FinanSystem2023\Domain\Services\.editorconfig" />
+  </ItemGroup>
+
 </Project>

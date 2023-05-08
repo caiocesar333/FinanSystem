@@ -13,7 +13,7 @@ namespace Domain.Interfaces.Generics
 
         Task Update(T obj);
 
-        Task Delete(int Id);
+        Task Delete(T obj);
 
         Task<T> GetEntityById(int Id);
 

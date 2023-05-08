@@ -10,3 +10,6 @@ D:\Programação\FinanSystem\FinanSystem2023\Domain\obj\Debug\net7.0\Domain.dll
 D:\Programação\FinanSystem\FinanSystem2023\Domain\obj\Debug\net7.0\refint\Domain.dll
 D:\Programação\FinanSystem\FinanSystem2023\Domain\obj\Debug\net7.0\Domain.pdb
 D:\Programação\FinanSystem\FinanSystem2023\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\Programação\FinanSystem\FinanSystem2023\Domain\bin\Debug\net7.0\Entities.dll
+D:\Programação\FinanSystem\FinanSystem2023\Domain\bin\Debug\net7.0\Entities.pdb
+D:\Programação\FinanSystem\FinanSystem2023\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
